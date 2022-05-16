@@ -1,0 +1,13 @@
+@import "./variable.scss";
+
+.iconStyDefault {
+    font-size: $icon-base-size;
+    color: $icon-base-color;
+}
+
+.iconSty {
+    font-size: $font-size;
+    color: $icon-base-color;
+    box-sizing: border-box;
+    padding: 5px;
+}

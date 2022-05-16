@@ -1,0 +1,58 @@
+// 定义从白到黑的色彩渐变，主要用来展示不同级别的常规文案字体颜色。
+$white: #fff !default;
+$gray-300: #dee2e6 !default;
+$gray-600: #6c757d !default;
+$gray-900: #212529 !default;
+$black: #000 !default;
+
+// 字体大小 浏览器默认16px
+$font-size-base: 16px !default;
+$font-size: 16px !default;
+$font-size-lg: $font-size-base * 1.25 !default;
+$font-size-slg: $font-size-base * 1.75 !default;
+$font-size-mlg: $font-size-base * 2 !default;
+$font-size-sm: $font-size-base * 0.875 !default;
+
+// 字重
+$font-weight-normal: 400 !default;
+$font-weight-medium: 500 !default;
+$font-weight-bold: 600 !default;
+$font-weight-super-bold: 700 !default;
+
+// 行高
+$line-height-base: 1.5 !default;
+$line-height-lg: 2 !default;
+$line-height-sm: 1.25 !default;
+
+//----明亮主题
+//背景颜色
+$background-base: #ff99ff !default;
+$background-base-light: #ffccff !default;
+$background-base-dark: #ff66ff !default;
+$background-base-part: #ea66a6 !default;
+
+//字体颜色
+$text-base-color: #000033 !default;
+$text-base-color1: #f36c21 !default;
+
+//边框颜色
+$border-base-color: #fff !default;
+$border-dialog-color: #ad8b3d !default;
+
+//边框阴影
+$borderShadow-base-color: #bb505d !default;
+
+//选时块颜色
+$select-base-color: #afb4db !default;
+$select-icon-base-color:#45b97c !default;
+
+//选中颜色
+$selected-icon-base-color:#d93a49 !default;
+$selected-base-color: #d5c59f !default;
+
+//图标
+$icon-base-color: #0c212b !default;
+$icon-base-size: 12px;
+
+//----暗黑主题
+

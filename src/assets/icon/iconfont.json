@@ -1,0 +1,93 @@
+{
+  "id": "3391618",
+  "name": "书签",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29522610",
+      "name": "13B省略",
+      "font_class": "a-13Bshenglve",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "7548626",
+      "name": "16gf-bookmarkPlus",
+      "font_class": "16gf-bookmarkPlus",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "6966946",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "5755492",
+      "name": "工具-fill",
+      "font_class": "gongju-fill",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "147460",
+      "name": "图片_填充",
+      "font_class": "tupiantianchong",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "29219461",
+      "name": "学习中心",
+      "font_class": "LearningCenter",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "10952327",
+      "name": "合集图标",
+      "font_class": "hejitubiao",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "4936951",
+      "name": "google",
+      "font_class": "google",
+      "unicode": "e87a",
+      "unicode_decimal": 59514
+    },
+    {
+      "icon_id": "18166606",
+      "name": "百度",
+      "font_class": "baidu",
+      "unicode": "e8cb",
+      "unicode_decimal": 59595
+    },
+    {
+      "icon_id": "26505283",
+      "name": "QQ浏览器",
+      "font_class": "QQliulanqi",
+      "unicode": "e7a3",
+      "unicode_decimal": 59299
+    },
+    {
+      "icon_id": "26847507",
+      "name": "搜狗",
+      "font_class": "Sougou",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3860882",
+      "name": "标记",
+      "font_class": "biaoji",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    }
+  ]
+}

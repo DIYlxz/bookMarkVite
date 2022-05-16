@@ -1,0 +1,12 @@
+@import "../settings/variable.scss";
+
+//明亮
+@import "./default/index.scss";
+@import "./default/background.scss";
+
+//深色
+@import "./dark/index.scss";
+
+//相同
+@import "../settings/icon.scss";
+@import "../settings/input.scss";

@@ -1,0 +1,28 @@
+@import "./variable.scss";
+
+input {
+    background:none;  
+	outline:none;  
+	border:0px;
+}
+
+.inputBase {
+    border-bottom: 1px solid $border-base-color;
+    height: 32px;
+    line-height: 32px;
+    width: 320px;
+    letter-spacing: 2px;
+    padding-left: 32px;
+    box-sizing: border-box;
+}
+
+.inputDialog {
+    border-bottom: 1px solid $border-dialog-color;
+    height: 20px;
+    line-height: 16px;
+    width: 100%;
+    letter-spacing: 2px;
+    margin-top: 8px;
+    box-sizing: border-box;
+    color: $text-base-color1;
+}
